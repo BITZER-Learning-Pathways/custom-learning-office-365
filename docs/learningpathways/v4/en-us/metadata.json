@@ -175,16 +175,16 @@
   ],
   "Categories": [
     {
-      "Id": "abcbb53b-b752-4693-b00c-a1e3f8c47921",
-      "Name": "Template",
+      "Id": "232d54a2-b630-4167-9a03-cd483f59616c",
+      "Name": "Recommended",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "BITZER",
       "SubCategories": [
         {
-          "Id": "920bf888-f910-40b0-a078-0dfd585d2d22",
-          "Name": "Sub Cat 1",
+          "Id": "d5138221-9c22-4532-a84d-58fca3848055",
+          "Name": "Daniel",
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -192,8 +192,8 @@
           "SubCategories": []
         },
         {
-          "Id": "5de32252-66a2-4de1-997f-39c307d0ed97",
-          "Name": "Sub Cat 2",
+          "Id": "8e36c7c4-e3e2-4a54-97ef-721eadd9b944",
+          "Name": "Michael",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -202,15 +202,6 @@
         }
       ]
     },
-    {
-      "Id": "232d54a2-b630-4167-9a03-cd483f59616c",
-      "Name": "Recommended",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "BITZER",
-      "SubCategories": []
-    },
 	{
       "Id": "a9c41a4e-6ede-42b9-87c5-461b7ba8afe7",
       "Name": "Self-Support",
@@ -218,7 +209,26 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "BITZER",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "0f820142-a3ca-4dcd-ad8a-8075f9af5284",
+          "Name": "Daniel",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        },
+        {
+          "Id": "66302a30-9119-40f0-acd3-9a500185aec8",
+          "Name": "Michael",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        }
+      ]
     },
 	{
       "Id": "e58b3098-8978-498c-a1be-151c1679c1cc",
@@ -227,7 +237,26 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "BITZER",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "b08f6075-1dad-4143-b173-060ac1f08709",
+          "Name": "Daniel",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        },
+        {
+          "Id": "960d85d7-47f1-4299-90ee-2767b08c0bb1",
+          "Name": "Michael",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
