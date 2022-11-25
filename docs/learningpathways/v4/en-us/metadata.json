@@ -203,6 +203,34 @@
       ]
     },
     {
+      "Id": "232d54a2-b630-4167-9a03-cd483f59616c",
+      "Name": "BITZER",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "BITZER",
+      "SubCategories": [
+        {
+          "Id": "d5138221-9c22-4532-a84d-58fca3848055",
+          "Name": "Daniel",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        },
+        {
+          "Id": "8e36c7c4-e3e2-4a54-97ef-721eadd9b944",
+          "Name": "Michael",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenarios",
       "Image": "",
