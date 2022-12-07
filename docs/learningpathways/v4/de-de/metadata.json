@@ -195,7 +195,7 @@
     },
     {
       "Id": "232d54a2-b630-4167-9a03-cd483f59616c",
-      "Name": "Recommended",
+      "Name": "Empfohlen",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
@@ -233,7 +233,7 @@
     },
 	{
       "Id": "e58b3098-8978-498c-a1be-151c1679c1cc",
-      "Name": "Scenarios",
+      "Name": "Szenarien",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
