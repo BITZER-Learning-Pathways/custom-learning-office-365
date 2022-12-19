@@ -231,25 +231,6 @@
         }
       ]
     },
-	{
-      "Id": "e58b3098-8978-498c-a1be-151c1679c1cc",
-      "Name": "Scenarios",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "BITZER",
-      "SubCategories": [
-        {
-          "Id": "8320d9fc-46e2-4e25-b84f-559c92b5895a",
-          "Name": "Sub-Cat",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "BITZER",
-          "SubCategories": []
-        }
-      ]
-    },
     {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
