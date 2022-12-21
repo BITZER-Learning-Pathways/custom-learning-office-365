@@ -251,25 +251,6 @@
       ]
     },
     {
-      "Id": "264738f0-d98f-4e57-9f3c-5e15687fa35a",
-      "Name": "Miscellaneous",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "BITZER",
-      "SubCategories": [
-        {
-          "Id": "99a00837-0dd4-4f34-97d2-61b6332180b6",
-          "Name": "Sub-Cat",
-          "Image": "images/categories/first_days.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "BITZER",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
       "Name": "Get started",
       "Image": "",
@@ -542,6 +523,25 @@
         }
       ]
     },
+    {
+      "Id": "264738f0-d98f-4e57-9f3c-5e15687fa35a",
+      "Name": "Miscellaneous",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "BITZER",
+      "SubCategories": [
+        {
+          "Id": "99a00837-0dd4-4f34-97d2-61b6332180b6",
+          "Name": "Sub-Cat",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "BITZER",
+          "SubCategories": []
+        }
+      ]
+    },  
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
       "Name": "Adoption Tools",
